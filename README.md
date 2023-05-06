@@ -1,5 +1,5 @@
 <p align="center"> <h1 align="center">David McClellan</h1> </p>
-<p align="center">>Hello, World! I'm David. I'm a developer who is passionate about making open-source projects, creating technology to elevate people, and building community.
+<p align="center">Hello, World! I'm David. I'm a developer who is passionate about making open-source projects, creating technology to elevate people, and building community.
 </p>
 🔭 I’m currently working on opensource projects such as [todoist](https://github.com/sachaos/todoist)
 
