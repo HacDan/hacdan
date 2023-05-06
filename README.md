@@ -7,7 +7,7 @@
 
 I'm David. I'm a developer who is passionate about making open-source projects, creating technology to elevate people, and building community.
 
-🔭 I’m currently working on opensource projects [todoist](https://github.com/sachaos/todoist)
+🔭 I’m currently working on opensource projects such as [todoist](https://github.com/sachaos/todoist)
 
 👯 I’m looking to collaborate on anything opensource!
 
