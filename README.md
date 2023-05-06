@@ -16,6 +16,7 @@ I'm David. I'm a developer who is passionate about making open-source projects, 
 📫 How to reach me:
 
 `Website` - [hacdan.org](https://hacdan.org)
+`twitter` - [@_hacdan](https://twitter.com/_hacdan)
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=hacdan&show_icons=true alt=hacdan />
