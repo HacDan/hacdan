@@ -1,5 +1,5 @@
 <p align="center"> <h1 align="center">David McClellan</h1> </p>
-<p align="center">Hello, World! I'm David. I'm a developer who is passionate about making open-source projects, creating technology to elevate people, and building community.
+<p align="center">Hello, World! I'm David, a back-end developer who is passionate about contributing to open-source projects, building technology that elevates people, and building community.
 </p>
 
 - 🔭 I’m currently working on opensource projects such as [todoist](https://github.com/sachaos/todoist) and [webi](https://github.com/webinstall)
@@ -9,4 +9,7 @@
 - 📫 How to reach me:
 
 `Website` - [hacdan.org](https://hacdan.org)
-`𝕏(twitter)` - [@_hacdan](https://twitter.com/_hacdan)
+`𝕏` - [@_hacdan](https://x.com/_hacdan)
+`LinkedIn` - [David McClellan](www.linkedin.com/in/dpmcclellan)
+
+
